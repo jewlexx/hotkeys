@@ -3,5 +3,5 @@ WinMinimize A
 Return
 
 ^!T::
-Run alacritty.exe
+Run wt.exe
 Return
