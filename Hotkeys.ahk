@@ -1,7 +1,3 @@
-F23::
-WinMinimize A
-Return
+#+M::WinMinimize A
 
-^!T::
-Run wt.exe
-Return
+^!T::Run "wt.exe"
